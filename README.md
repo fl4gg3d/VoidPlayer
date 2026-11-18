@@ -1,2 +1,5 @@
 # VoidPlayer
-player hecho solo vibecode para ver la capacidades de la IA
+Reproductor de musica
+Vibecodeado para ver la capacidades de la IA
+
+Totalmente hecho con IA
